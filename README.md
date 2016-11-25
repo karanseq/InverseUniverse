@@ -1,6 +1,6 @@
 # InverseUniverse
 
-A Space Invaders clone developed as part of the book Cocos2d-x Game Development Blueprints. This game introduced the readers to the concept of data-driven level design.
+An accelerometer based survival game developed as part of the book Cocos2d-x Game Development Blueprints. This game introduced the readers to accelerometer controls and time-based difficulty progression and procedural graphics.
 
 Platforms: PC, Android, iOS, Windows Phone 8
 
